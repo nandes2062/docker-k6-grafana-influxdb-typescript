@@ -1,6 +1,7 @@
 {
   "name": "typescript",
   "version": "1.0.0",
+  "author": "Fernando Javier Averanga Aruquipa <fernando.averanga@gmail.com>",
   "engines": {
     "node": "16 || 18"
   },
